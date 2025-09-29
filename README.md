@@ -1,7 +1,7 @@
 # Linux Sysadmin Project 02 – Nginx Demo
 
 This project demonstrates the installation and configuration of an Nginx web server on Ubuntu, including SSL with a self-signed certificate.  
-It was created as part of a system administration learning project.
+
 
 ---
 
