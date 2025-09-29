@@ -8,36 +8,35 @@ It was created as part of a system administration learning project.
 ## Project Steps with Screenshots
 
 ### 1. Check Nginx status
-![Nginx status](01-nginx-status.png)
+![Nginx status](screenshots/01-nginx-status.png)
 
 ### 2. Configure UFW firewall rules
-![UFW rules](02-ufw-rules.png)
+![UFW rules](screenshots/02-ufw-rules.png)
 
-### 3. Default Nginx welcome page
-![Nginx welcome](03-nginx-welcome.png)
+### 3. Verify Nginx welcome page
+![Nginx welcome](screenshots/03-nginx-welcome.png)
 
-### 4. Custom site configuration (`demo` site)
-![Nginx config demo](04-nginx-config-demo.png)
+### 4. Configure Nginx demo site
+![Nginx config demo](screenshots/04-nginx-config-demo.png)
 
-### 5. Hosts file entry
-![Hosts entry](05-hosts-entry.png)
+### 5. Add hosts file entry
+![Hosts entry](screenshots/05-hosts-entry.png)
 
 ### 6. Browser SSL warning
-![Browser warning](06-browser-warning.png)
+![Browser warning](screenshots/06-browser-warning.png)
 
-### 7. Server IP address
-![IP addr](07-ip-addr.png)
+### 7. Check server IP address
+![IP address](screenshots/07-ip-addr.png)
 
-### 8. SSL virtual host configuration
-![Nginx SSL config](08-nginx-ssl-config.png)
+### 8. Configure Nginx SSL
+![Nginx SSL config](screenshots/08-nginx-ssl-config.png)
 
-### 9. Directory ownership and permissions
-![chown & chmod](09-chown-chmod.png)
+### 9. Set permissions with chown & chmod
+![Chown chmod](screenshots/09-chown-chmod.png)
 
-### 10. Custom `index.html`
-![Index html](10-index-html.png)
+### 10. Create index.html
+![Index html](screenshots/10-index-html.png)
 
-### 11. Final `/var/www/` directory listing
-![ls var www](11-ls-var-www.png)
-
+### 11. Verify /var/www permissions
+![ls -l /var/www](screenshots/11-ls-var-www.png)
 
